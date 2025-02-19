@@ -1,0 +1,76 @@
+body{
+    margin: 0px;
+    padding: 20px;
+}
+section{
+    width: 70%;
+    margin: auto;
+  
+    padding: 10px;
+}
+/* debut class titre */
+.titre{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+strong{
+    font-weight: bold;
+    font-size: 20px;
+}
+.vert{
+    color: green;
+    font-weight: bold;
+    font-size: 20px;
+} 
+.bleu{
+    color: white;
+    background-color: blue;
+    font-weight: bold;
+    font-size: 20px;
+}
+.orange{
+    color: orange;
+    font-weight: bold;
+    font-size: 20px;
+}
+.para{
+    color: darkgray;
+}
+/* fin class titre */
+
+
+input{
+    width:  100%;
+    border: none;
+    border-bottom: 2px solid black;
+}
+.mot2passe{
+    text-align: end;
+    color: seagreen;
+    font-weight: bold;
+}
+
+.connecter{
+    text-align: center;
+}
+.connecter button{
+    background-color: green;
+    width: 100%;
+    border: none;
+    color: white;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+.se_connecter{
+   text-align: center;
+    border-radius: 6px;
+    padding: 10px;Z
+}
+button{
+    text-align: center;
+}
+
+1)compte git hub
+2)lien du coach
+3)la capture de notre formulaire plus nom, prenom, surnom et mettre le condition de lancement
